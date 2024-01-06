@@ -1,15 +1,39 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-01-06 18:18:18 +0300"
+      "unlock_right_away": "2024-01-06 19:06:31 +0300"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:plains": "2024-01-06 18:18:19 +0300"
+      "minecraft:plains": "2024-01-06 19:06:32 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-01-06 19:10:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-01-06 19:10:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-01-06 19:10:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-01-06 19:31:11 +0300"
+    },
+    "done": true
   },
   "DataVersion": 3700
 }
