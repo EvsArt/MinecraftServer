@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1705250331672
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704835764384
-  login: 1704835619287
+  logout: 1705336122054
+  login: 1705336065078
 money: '0'
 last-account-name: Phantomas
 logoutlocation:
   world: 7a4f1195-e1b9-4da6-b971-af6007ba8e83
   world-name: world
-  x: 19.74422170152401
-  y: 96.06697230106336
-  z: 9.55728992615545
-  yaw: -61.790771484375
-  pitch: 25.650590896606445
+  x: 76.08725182303212
+  y: 104.6613933701886
+  z: 62.13322760405023
+  yaw: -76.6501235961914
+  pitch: 17.850244522094727
+lastlocation:
+  world: 7a4f1195-e1b9-4da6-b971-af6007ba8e83
+  world-name: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
